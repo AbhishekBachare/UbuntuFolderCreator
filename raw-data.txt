@@ -1,0 +1,7 @@
+1. What is Docker in 2023? The Three Innovations
+10min
+Play
+2. Quick Container Run
+11min
+Stop
+3. Why Docker? Why Now in 2023?
